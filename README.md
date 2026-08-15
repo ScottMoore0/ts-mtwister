@@ -1,3 +1,7 @@
+> **Archived.** Active development has moved into [`C2TypeScript/translated-projects/ts-mtwister`](https://github.com/ScottMoore0/C2TypeScript/tree/main/translated-projects/ts-mtwister), where this project's full history is preserved as a git subtree.
+>
+> This repository stays in place, read-only, as the `repository` target of the published npm package.
+
 # ts-mtwister
 
 A direct TypeScript translation of the Mersenne Twister with the *6069 LCG seeding constant.
